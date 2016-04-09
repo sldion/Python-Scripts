@@ -1,0 +1,11 @@
+with open('Matches.csv', 'rt') as csvfile:
+    Data = csv.reader(csvfile, delimiter=',')
+    next(Data)
+    firstLine = True
+    Sum = 0.0
+    count = 0
+
+    for row  in Data:
+            Sum = Sum + float(row[8])
+            count = count + 1
+    print(Sum/count)

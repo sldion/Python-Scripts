@@ -1,0 +1,107 @@
+"2013 National Graduates Survey (Class of 2009/2010) - Number of graduates by educational information, labour market outcome three years after graduation and whether they would choose the same field of study again",,,,,,,,,
+HIGHEST_LEVEL_OF_STUDY,HIGHEST_LEVEL_OF_STUDY_CODE,FIELD_OF_STUDY,FIELD_OF_STUDY_CODE,EMPLOYMENT_STATUS,EMPLOYMENT_STATUS_CODE,WOULD_CHOOSE_SAME_FIELD_OF_STUDY_COMPLETED_AGAIN,WOULD_CHOOSE_SAME_FIELD_OF_STUDY_COMPLETED_AGAIN_CODE,COUNTS,Percent
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Total,LFA0,Yes,CFOS01,1699,0.785120148
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Total,LFA0,No,CFOS02,465,0.214879852
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Total,LFA0,Total,CFOS0,2164,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Total,LFA0,Yes,CFOS01,2644,0.773778168
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Total,LFA0,No,CFOS02,773,0.226221832
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Total,LFA0,Total,CFOS0,3417,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Total,LFA0,Yes,CFOS01,2804,0.852279635
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Total,LFA0,No,CFOS02,485,0.147416413
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Total,LFA0,Total,CFOS0,3290,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Total,LFA0,Yes,CFOS01,1506,0.774691358
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Total,LFA0,No,CFOS02,0,0
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Total,LFA0,Total,CFOS0,1944,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Total,LFA0,Yes,CFOS01,0,Not available
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Total,LFA0,No,CFOS02,252,Not available
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Total,LFA0,Total,CFOS0,0,Not available
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Total,LFA0,Yes,CFOS01,1894,0.588564326
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Total,LFA0,No,CFOS02,1324,0.411435674
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Total,LFA0,Total,CFOS0,3218,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Total,LFA0,Yes,CFOS01,9580,0.708737146
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Total,LFA0,No,CFOS02,3937,0.291262854
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Total,LFA0,Total,CFOS0,13517,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Total,LFA0,Yes,CFOS01,3514,0.742289818
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Total,LFA0,No,CFOS02,1220,0.257710182
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Total,LFA0,Total,CFOS0,4734,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Total,LFA0,Yes,CFOS01,20026,0.803031518
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Total,LFA0,No,CFOS02,4912,0.196968482
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Total,LFA0,Total,CFOS0,24938,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Total,LFA0,Yes,CFOS01,26354,0.698174689
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Total,LFA0,No,CFOS02,11392,0.301798818
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Total,LFA0,Total,CFOS0,37747,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Total,LFA0,Yes,CFOS01,19521,0.807386881
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Total,LFA0,No,CFOS02,4656,0.192571759
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Total,LFA0,Total,CFOS0,24178,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Total,LFA0,Yes,CFOS01,2990,0.620203277
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Total,LFA0,No,CFOS02,1831,0.379796723
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Total,LFA0,Total,CFOS0,4821,1
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Total,LFA0,Yes,CFOS01,93244,0.746369967
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Total,LFA0,No,CFOS02,31687,0.253638037
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Total,LFA0,Total,CFOS0,124930,1
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Total,LFA0,Yes,CFOS01,1124,0.769863014
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Total,LFA0,No,CFOS02,335,0.229452055
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Total,LFA0,Total,CFOS0,1460,1
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Total,LFA0,Yes,CFOS01,2314,0.802079723
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Total,LFA0,No,CFOS02,571,0.197920277
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Total,LFA0,Total,CFOS0,2885,1
+Bachelor or first professional degree,LOS050,Education ,FOS203,Total,LFA0,Yes,CFOS01,14323,0.827584214
+Bachelor or first professional degree,LOS050,Education ,FOS203,Total,LFA0,No,CFOS02,2984,0.172415786
+Bachelor or first professional degree,LOS050,Education ,FOS203,Total,LFA0,Total,CFOS0,17307,1
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Total,LFA0,Yes,CFOS01,8588,0.849540014
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Total,LFA0,No,CFOS02,1520,0.150361064
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Total,LFA0,Total,CFOS0,10109,1
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Total,LFA0,Yes,CFOS01,8615,0.663713405
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Total,LFA0,No,CFOS02,4365,0.336286595
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Total,LFA0,Total,CFOS0,12980,1
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Total,LFA0,Yes,CFOS01,14043,0.713204672
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Total,LFA0,No,CFOS02,5647,0.286795328
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Total,LFA0,Total,CFOS0,19690,1
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Total,LFA0,Yes,CFOS01,21735,0.643142477
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Total,LFA0,No,CFOS02,12060,0.356857523
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Total,LFA0,Total,CFOS0,33795,1
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Total,LFA0,Yes,CFOS01,4442,0.705303271
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Total,LFA0,No,CFOS02,1856,0.294696729
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Total,LFA0,Total,CFOS0,6298,1
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Total,LFA0,Yes,CFOS01,17376,0.84092339
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Total,LFA0,No,CFOS02,3287,0.15907661
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Total,LFA0,Total,CFOS0,20663,1
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Total,LFA0,Yes,CFOS01,23393,0.744146838
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Total,LFA0,No,CFOS02,8042,0.255821351
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Total,LFA0,Total,CFOS0,31436,1
+Bachelor or first professional degree,LOS050,Total,FOS2,Total,LFA0,Yes,CFOS01,116842,0.739244318
+Bachelor or first professional degree,LOS050,Total,FOS2,Total,LFA0,No,CFOS02,41214,0.260755682
+Bachelor or first professional degree,LOS050,Total,FOS2,Total,LFA0,Total,CFOS0,158056,1
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Total,LFA0,Yes,CFOS01,766,0.826321467
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Total,LFA0,No,CFOS02,161,0.173678533
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Total,LFA0,Total,CFOS0,927,1
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Total,LFA0,Yes,CFOS01,1242,0.831325301
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Total,LFA0,No,CFOS02,252,0.168674699
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Total,LFA0,Total,CFOS0,1494,1
+Master's degree,LOS070,Education ,FOS203,Total,LFA0,Yes,CFOS01,3796,0.877282182
+Master's degree,LOS070,Education ,FOS203,Total,LFA0,No,CFOS02,531,0.122717818
+Master's degree,LOS070,Education ,FOS203,Total,LFA0,Total,CFOS0,4327,1
+Master's degree,LOS070,Architecture and engineering ,FOS204,Total,LFA0,Yes,CFOS01,2746,0.86406545
+Master's degree,LOS070,Architecture and engineering ,FOS204,Total,LFA0,No,CFOS02,432,0.13593455
+Master's degree,LOS070,Architecture and engineering ,FOS204,Total,LFA0,Total,CFOS0,3178,1
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Total,LFA0,Yes,CFOS01,2014,0.749534797
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Total,LFA0,No,CFOS02,673,0.250465203
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Total,LFA0,Total,CFOS0,2687,1
+Master's degree,LOS070,Humanities ,FOS206,Total,LFA0,Yes,CFOS01,1704,0.817266187
+Master's degree,LOS070,Humanities ,FOS206,Total,LFA0,No,CFOS02,381,0.182733813
+Master's degree,LOS070,Humanities ,FOS206,Total,LFA0,Total,CFOS0,2085,1
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Total,LFA0,Yes,CFOS01,3717,0.75
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Total,LFA0,No,CFOS02,1239,0.25
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Total,LFA0,Total,CFOS0,4956,1
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Total,LFA0,Yes,CFOS01,0,0
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Total,LFA0,No,CFOS02,0,0
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Total,LFA0,Total,CFOS0,925,1
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Total,LFA0,Yes,CFOS01,3665,0.832387009
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Total,LFA0,No,CFOS02,738,0.167612991
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Total,LFA0,Total,CFOS0,4403,1
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Total,LFA0,Yes,CFOS01,8809,0.896681596
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Total,LFA0,No,CFOS02,1015,0.103318404
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Total,LFA0,Total,CFOS0,9824,1
+Master's degree,LOS070,Total,FOS2,Total,LFA0,Yes,CFOS01,29470,0.839960097
+Master's degree,LOS070,Total,FOS2,Total,LFA0,No,CFOS02,5615,0.160039903
+Master's degree,LOS070,Total,FOS2,Total,LFA0,Total,CFOS0,35085,1

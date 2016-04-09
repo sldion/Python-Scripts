@@ -1,0 +1,142 @@
+"2013 National Graduates Survey (Class of 2009/2010) - Number of employed graduates, by educational information and extent to which their job was related to their certificate, diploma or degree",,,,,,,
+HIGHEST_LEVEL_OF_STUDY,HIGHEST_LEVEL_OF_STUDY_CODE,FIELD_OF_STUDY,FIELD_OF_STUDY_CODE,RELATION_BETWEEN_GRADUATES_FIELD_OF_STUDY_AND_CURRENT_JOB,RELATION_BETWEEN_GRADUATES_FIELD_OF_STUDY_AND_CURRENT_JOB_CODE,COUNTS,Percent
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Closely related,JFOS01,941,0.5759
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Somewhat related,JFOS02,320,0.1958
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Not related at all,JFOS03,373,0.2283
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Agriculture, natural resources and conservation ",FOS101,Total,JFOS0,1634,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Closely related,JFOS01,1880,0.6436
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Somewhat related,JFOS02,530,0.1814
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Not related at all,JFOS03,511,0.1749
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Computer science, mathematics and statistics ",FOS102,Total,JFOS0,2921,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Closely related,JFOS01,2020,0.7432
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Somewhat related,JFOS02,364,0.1339
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Not related at all,JFOS03,334,0.1229
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Education ,FOS103,Total,JFOS0,2718,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Closely related,JFOS01,993,0.6253
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Somewhat related,JFOS02,0,0.0000
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Not related at all,JFOS03,0,0.0000
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Architecture and engineering ,FOS120,Total,JFOS0,1588,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Closely related,JFOS01,489,0.6858
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Somewhat related,JFOS02,0,0.0000
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Not related at all,JFOS03,0,0.0000
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Physical and life sciences technologies ,FOS105,Total,JFOS0,713,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Closely related,JFOS01,622,0.2552
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Somewhat related,JFOS02,423,0.1736
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Not related at all,JFOS03,1391,0.5708
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Humanities ,FOS108,Total,JFOS0,2437,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Closely related,JFOS01,6897,0.6027
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Somewhat related,JFOS02,2096,0.1832
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Not related at all,JFOS03,2451,0.2142
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Social and behavioural sciences ,FOS109,Total,JFOS0,11444,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Closely related,JFOS01,1100,0.3287
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Somewhat related,JFOS02,707,0.2112
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Not related at all,JFOS03,1541,0.4604
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Design, music, performing, fine and applied arts ",FOS114,Total,JFOS0,3347,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Closely related,JFOS01,17164,0.7858
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Somewhat related,JFOS02,1645,0.0753
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Not related at all,JFOS03,3033,0.1389
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Health parks, recreation and fitness ",FOS117,Total,JFOS0,21842,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Closely related,JFOS01,15451,0.4919
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Somewhat related,JFOS02,8773,0.2793
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Not related at all,JFOS03,7190,0.2289
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,"Business, management, marketing and related support services ",FOS118,Total,JFOS0,31414,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Closely related,JFOS01,12814,0.6376
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Somewhat related,JFOS02,3680,0.1831
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Not related at all,JFOS03,3603,0.1793
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Trades and engineering technologies/technicians ,FOS104,Total,JFOS0,20098,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Closely related,JFOS01,2585,0.6475
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Somewhat related,JFOS02,551,0.1380
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Not related at all,JFOS03,856,0.2144
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Personal and culinary services and transportation ,FOS113,Total,JFOS0,3992,1.00
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Closely related,JFOS01,62957,0.6045
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Somewhat related,JFOS02,19595,0.1881
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Not related at all,JFOS03,21596,0.2074
+College or CEGEP diploma or certificate (includes DEC general in Quebec),LOS040,Total,FOS1,Total,JFOS0,104148,1.00
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Closely related,JFOS01,679,0.5494
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Somewhat related,JFOS02,371,0.3002
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Not related at all,JFOS03,186,0.1505
+Bachelor or first professional degree,LOS050,"Agriculture, natural resources and conservation ",FOS201,Total,JFOS0,1236,1.00
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Closely related,JFOS01,1362,0.5894
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Somewhat related,JFOS02,630,0.2726
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Not related at all,JFOS03,319,0.1380
+Bachelor or first professional degree,LOS050,"Computer science, mathematics and statistics ",FOS202,Total,JFOS0,2311,1.00
+Bachelor or first professional degree,LOS050,Education ,FOS203,Closely related,JFOS01,11312,0.7666
+Bachelor or first professional degree,LOS050,Education ,FOS203,Somewhat related,JFOS02,1325,0.0898
+Bachelor or first professional degree,LOS050,Education ,FOS203,Not related at all,JFOS03,2120,0.1437
+Bachelor or first professional degree,LOS050,Education ,FOS203,Total,JFOS0,14757,1.00
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Closely related,JFOS01,6325,0.6784
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Somewhat related,JFOS02,0,0.0000
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Not related at all,JFOS03,0,0.0000
+Bachelor or first professional degree,LOS050,Architecture and engineering ,FOS204,Total,JFOS0,9323,1.00
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Closely related,JFOS01,2702,0.3129
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Somewhat related,JFOS02,2411,0.2792
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Not related at all,JFOS03,3522,0.4079
+Bachelor or first professional degree,LOS050,Physical and life sciences technologies ,FOS205,Total,JFOS0,8635,1.00
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Closely related,JFOS01,4806,0.2937
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Somewhat related,JFOS02,4622,0.2824
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Not related at all,JFOS03,6937,0.4239
+Bachelor or first professional degree,LOS050,Humanities ,FOS206,Total,JFOS0,16365,1.00
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Closely related,JFOS01,11148,0.4012
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Somewhat related,JFOS02,7839,0.2821
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Not related at all,JFOS03,8799,0.3167
+Bachelor or first professional degree,LOS050,Social and behavioural sciences ,FOS207,Total,JFOS0,27786,1.00
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Closely related,JFOS01,1502,0.3316
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Somewhat related,JFOS02,1052,0.2323
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Not related at all,JFOS03,1976,0.4363
+Bachelor or first professional degree,LOS050,"Design, music, performing, fine and applied arts ",FOS208,Total,JFOS0,4529,1.00
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Closely related,JFOS01,13745,0.7915
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Somewhat related,JFOS02,1749,0.1007
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Not related at all,JFOS03,1870,0.1077
+Bachelor or first professional degree,LOS050,"Health parks, recreation and fitness ",FOS209,Total,JFOS0,17365,1.00
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Closely related,JFOS01,16352,0.6002
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Somewhat related,JFOS02,7981,0.2929
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Not related at all,JFOS03,2913,0.1069
+Bachelor or first professional degree,LOS050,"Business, management, marketing and related support services ",FOS210,Total,JFOS0,27246,1.00
+Bachelor or first professional degree,LOS050,Total,FOS2,Closely related,JFOS01,70554,0.5397
+Bachelor or first professional degree,LOS050,Total,FOS2,Somewhat related,JFOS02,30693,0.2348
+Bachelor or first professional degree,LOS050,Total,FOS2,Not related at all,JFOS03,29489,0.2256
+Bachelor or first professional degree,LOS050,Total,FOS2,Total,JFOS0,130736,1.00
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Closely related,JFOS01,404,0.5788
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Somewhat related,JFOS02,209,0.2994
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Not related at all,JFOS03,85,0.1218
+Master's degree,LOS070,"Agriculture, natural resources and conservation ",FOS201,Total,JFOS0,698,1.00
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Closely related,JFOS01,829,0.6696
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Somewhat related,JFOS02,357,0.2884
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Not related at all,JFOS03,51,0.0412
+Master's degree,LOS070,"Computer science, mathematics and statistics ",FOS202,Total,JFOS0,1238,1.00
+Master's degree,LOS070,Education ,FOS203,Closely related,JFOS01,3115,0.8051
+Master's degree,LOS070,Education ,FOS203,Somewhat related,JFOS02,629,0.1626
+Master's degree,LOS070,Education ,FOS203,Not related at all,JFOS03,125,0.0323
+Master's degree,LOS070,Education ,FOS203,Total,JFOS0,3869,1.00
+Master's degree,LOS070,Architecture and engineering ,FOS204,Closely related,JFOS01,1879,0.7177
+Master's degree,LOS070,Architecture and engineering ,FOS204,Somewhat related,JFOS02,587,0.2242
+Master's degree,LOS070,Architecture and engineering ,FOS204,Not related at all,JFOS03,152,0.0581
+Master's degree,LOS070,Architecture and engineering ,FOS204,Total,JFOS0,2618,1.00
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Closely related,JFOS01,1008,0.5422
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Somewhat related,JFOS02,612,0.3292
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Not related at all,JFOS03,239,0.1286
+Master's degree,LOS070,Physical and life sciences technologies ,FOS205,Total,JFOS0,1859,1.00
+Master's degree,LOS070,Humanities ,FOS206,Closely related,JFOS01,705,0.4709
+Master's degree,LOS070,Humanities ,FOS206,Somewhat related,JFOS02,445,0.2973
+Master's degree,LOS070,Humanities ,FOS206,Not related at all,JFOS03,346,0.2311
+Master's degree,LOS070,Humanities ,FOS206,Total,JFOS0,1497,1.00
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Closely related,JFOS01,2295,0.6141
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Somewhat related,JFOS02,935,0.2502
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Not related at all,JFOS03,507,0.1357
+Master's degree,LOS070,Social and behavioural sciences ,FOS207,Total,JFOS0,3737,1.00
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Closely related,JFOS01,216,0.4146
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Somewhat related,JFOS02,221,0.4242
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Not related at all,JFOS03,85,0.1631
+Master's degree,LOS070,"Design, music, performing, fine and applied arts ",FOS208,Total,JFOS0,521,1.00
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Closely related,JFOS01,2900,0.7865
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Somewhat related,JFOS02,509,0.1381
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Not related at all,JFOS03,0,0.0000
+Master's degree,LOS070,"Health parks, recreation and fitness ",FOS209,Total,JFOS0,3687,1.00
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Closely related,JFOS01,5874,0.7010
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Somewhat related,JFOS02,1946,0.2322
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Not related at all,JFOS03,0,0.0000
+Master's degree,LOS070,"Business, management, marketing and related support services ",FOS210,Total,JFOS0,8379,1.00
+Master's degree,LOS070,Total,FOS2,Closely related,JFOS01,19304,0.6815
+Master's degree,LOS070,Total,FOS2,Somewhat related,JFOS02,6475,0.2286
+Master's degree,LOS070,Total,FOS2,Not related at all,JFOS03,2546,0.0899
+Master's degree,LOS070,Total,FOS2,Total,JFOS0,28325,1.00
