@@ -1,16 +1,12 @@
 import twitter
 
-api = twitter.Api(consumer_key='PvfC9xdwuGNBWyG4RHothCUIG', consumer_secret='DRzGRjI8UehRkzcBA0MTuouSPl8aNTNDCj39kif0G8Rl3KUdyV', access_token_key='333001911-KHFQmDGyzFsLoNofxhrzBkmYPn7mBvh7Qsh09EPg', access_token_secret='k5lpPdopcV5hbqUa7Y6HAQfVPbfZcugGmDC7Tl4YT256h')
+api = twitter.Api(consumer_key='X56t9CLmLYu2ZLfQR4QHSrwch',
+        consumer_secret='lE1Hg13m4xPiaU1NNZmqrUaUUFcyd3FzWfE3UWngsoTezLM3NT',
+        access_token_key='543690533-9Xf1g4IwA2dMCxKA225ZQkD33gTjxZcotva5FAc6',
+        access_token_secret='0WREDuqpUPzlXgq1FIQjS1BprR0xBaRsnszmYy9V6H6nv')
 
+statuses = api.GetUserTimeline(screen_name='kanyewest', count=200)# exclude_replies=True)
 
-status = api.GetUserTimeline(screen_name = 'kanyewest', count = 1000)
-
-
-
-kanyeWestFile = open('kanyeWest.txt', 'w')
-
-
-for s in status:
-    kanyeWestFile.write(s.text.encode('utf8') + '\n')
-
-kanyeWestFile.close
+# class twitterCalls:
+#
+#     def getTweets(self,)
