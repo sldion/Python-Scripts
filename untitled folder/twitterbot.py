@@ -1,7 +1,5 @@
 import random
 
-
-
 kanyeWestFile = open('kanyeWest.txt', 'rt')
 
 dictionary = {}
